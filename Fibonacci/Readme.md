@@ -4,6 +4,7 @@ Brute force time complexity :O(2^n)
 Recursive + memo time complexity :O(n)
 
 e.g:
+On my computer
 fib(40)
 Recursion + memo:
  =>102334155 done in : 90ms
