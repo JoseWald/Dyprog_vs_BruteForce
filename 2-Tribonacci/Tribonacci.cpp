@@ -25,7 +25,6 @@ size_t trib(size_t n ,unordered_map<size_t , size_t>& memo){
     memo[n] = result;
     return result;
 }
-
 int main(){
     cout << "Tribonacci" << endl;
     //Recursion + memo 
