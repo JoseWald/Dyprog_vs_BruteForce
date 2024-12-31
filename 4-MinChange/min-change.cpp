@@ -36,6 +36,7 @@ u_short dp_min_change(short& amount ,const vector<u_short>& coins ,unordered_map
     //clog << amount << "&" << coin_number <<" "; 
     if(memo.find(amount) != memo.end())
         return memo.at(amount);
+        
     memo[amount] = coin_number;
     for(u_short coin : coins){
         short sub_amount= amount-coin;
