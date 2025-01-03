@@ -12,8 +12,8 @@ there's is 3 different ways to travel from the top left corner to the bottom rig
 As a result , we should return 18 
 
 
- Brute force complexity : O( 2^(row+scols) )
- Dyprog complexity : O( rows * cols )
+ Brute force time complexity : O( 2^(row+scols) )
+ Dyprog time complexity : O( rows * cols )
 
   ----BENCHMARK----
 -------------------
