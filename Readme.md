@@ -1,4 +1,4 @@
-Dynamic Programming is a method to avoid redundant computing.
-It's a type of problem solving which overlap the problem in sub problem and 
-avoiding to resolve the same problem again.His purpose is to improve the time complexity.
-In this repo ,  you gonna see the benchmark of brute force recursion vs dynamic programming.
+Dynamic Programming is a method used to avoid redundant computations.
+It is a problem-solving approach that breaks down a problem into overlapping subproblems, ensuring the same problem is not solved multiple times. Its purpose is to improve time complexity.
+
+In this repository, you’ll find a benchmark comparison between brute force recursion and dynamic programming.
